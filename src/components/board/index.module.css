@@ -1,8 +1,17 @@
+.screen-main {
+  background-image: linear-gradient(45deg, #c04848, #480048);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+}
+
 .main-div {
-  border: 3px solid black;
-  position: relative;
-  width: 600px;
-  height: 600px;
+  border: 8px solid white;
+  width: 35%;
+  margin: 4% auto;
+  border-radius: 20px;
+  background-color: rgb(252, 241, 226);
 }
 
 .input-row {
@@ -11,11 +20,57 @@
 }
 
 .input {
-  border: 1px solid blue;
-  width: 200px;
-  height: 200px;
+  border: 2px solid dodgerblue;
+  width: 35%;
+  height: 130px;
   display: flex;
   font-size: 80px;
   justify-content: center;
   align-items: center;
+  margin: 10px;
+  border-radius: 15px;
+  background-color: rgb(234, 243, 252);
+  cursor: pointer;
+}
+
+.h-color {
+  color: rgb(42, 148, 255);
+}
+
+.player-turn {
+  color: rgb(156, 156, 252);
+  font-size: 38px;
+}
+
+.w-color {
+  color: rgb(2, 179, 2);
+}
+.player-win {
+  color: green;
+  font-size: 38px;
+}
+
+.reset-buttonTop {
+  float: right;
+  margin-top: 4%;
+  margin-right: 6%;
+  cursor: pointer;
+}
+
+.reset-buttonBottom {
+  float: right;
+  margin-right: 6%;
+  margin-top: -12%;
+  cursor: pointer;
+}
+
+.instruction-div {
+  float: right;
+  width: 30%;
+  height: 100vh;
+  background-color: #480048;
+  display: none;
+  transition: 3s;
+  animation-timing-function: ease-out;
+  word-wrap: break-word;
 }
