@@ -17,6 +17,7 @@ Eye catching and user friendly react game application that allows two players to
 - Display user friendly Board or play area
 - Has instructions or user guide for this game
 - Can be reset after every game.
+- Carefully designed and unable to edit once selected a square and all corner cases working.
 
 ---
 
