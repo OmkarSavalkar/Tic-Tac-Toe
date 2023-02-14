@@ -220,7 +220,7 @@ const Board = () => {
           <div className={style["madeby"]}> ©️ Made By Omkar Savalkar</div>
         </div>
 
-        {winner !== "" && !draw ? (
+        {winner !== "" ? (
           <>
             <h2 className={style["w-color"]}>
               <span className={style["player-win"]}>{winner}</span> Wins the
