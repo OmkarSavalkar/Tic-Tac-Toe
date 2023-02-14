@@ -33,6 +33,12 @@
   cursor: pointer;
 }
 
+.madeby {
+  width: 100%;
+  height: 30px;
+  color: gray;
+}
+
 .h-color {
   color: rgb(42, 148, 255);
 }
@@ -70,7 +76,6 @@
   height: 100vh;
   background-color: #480048;
   display: none;
-  transition: 3s;
-  animation-timing-function: ease-out;
   word-wrap: break-word;
+  color: white;
 }
