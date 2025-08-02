@@ -32,3 +32,6 @@ Watch Demo - https://github.com/OmkarSavalkar/Tic-Tac-Toe/blob/dev/demo/demo.gif
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 ___
+
+## 🙌 Author
+By Omkar Savalkar.
