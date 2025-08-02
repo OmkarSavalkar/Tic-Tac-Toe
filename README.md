@@ -1,5 +1,4 @@
 ## Tic Tac Toe Game (React Js)
-Watch Demo - https://github.com/OmkarSavalkar/Tic-Tac-Toe/blob/dev/demo/demo.gif
 ![](https://visitor-badge.glitch.me/badge?page_id=OmkarSavalkar.myInfoApplication)
  - Eye catching and user friendly react game application that allows two players to spend quality time while playing this simple game. This is just beta version of Tic Tac Toe game. New fact is that this game can be played instead of toss to decide who wins and who will go first.😂
 
